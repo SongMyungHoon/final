@@ -1,10 +1,3 @@
-## 송명훈 602377108 "정상작동"
-
-*
-1. 
-
----
-```R
 install.packages('animation')
 library(animation)
 
@@ -24,5 +17,3 @@ barplot(runif
 ani.pause()
 
 }
-
-```
